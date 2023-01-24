@@ -40,7 +40,7 @@ def how_much_you_need_to_invest_today_to_produce_certain_payoff(
 
 def net_present_value(initial_investment: float, discount_rate: float, cash_flows: list[float]) -> float:
     """Calculates net present value of future cash flows with an initial investment"""
-    return initial_investment - present_value(discount_rate=discount_rate, cash_flows=cash_flows)
+    return present_value(discount_rate=discount_rate, cash_flows=cash_flows) - initial_investment
 
 
 def present_value_of_t_year_annuity(yearly_payment: float, discount_rate: float, num_years: int) -> float:
