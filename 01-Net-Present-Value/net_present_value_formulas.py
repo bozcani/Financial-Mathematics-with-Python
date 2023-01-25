@@ -3,7 +3,7 @@
 This script includes formulas and examples to calculate net present formulas for 
 different scenarios. The code is subject to mistakes and only for learning purpose.
 
-NO INVESTMENT ADVICE. The Content is for informational purposes only, you should not construe 
+NO INVESTMENT ADVICE. The Content is for informational purposes only, you should not consider 
 any such information or other material as legal, tax, investment, financial, or other advice.
 
 Author: Ilker Bozcan, 2023
